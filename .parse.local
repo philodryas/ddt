@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Library": {
+      "applicationId": "nDEtmzgIVhREcDuCViBHTc45Od9KCBmohz3oinmF"
+    },
+    "_default": {
+      "link": "Library"
+    }
+  }
+}
