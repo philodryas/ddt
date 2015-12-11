@@ -9,6 +9,12 @@ body {
   border-top: 1px solid #eee;
 }
 
+/* Ajeitando as imagens */
+.images {
+  width: 300px;
+  height: 300px;
+  }
+
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
@@ -86,3 +92,4 @@ body {
     padding-left: 0;
   }
 }
+
